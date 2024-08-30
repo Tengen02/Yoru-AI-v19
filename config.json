@@ -17,7 +17,7 @@
 		"ignoreCommand": []
 	},
 	"adminBot": [
-		"100053549552408",
+		"100083992789819",
 		""
 	],
 	"whiteListMode": {
@@ -25,8 +25,8 @@
 		"whiteListIds": [],
 		"notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
 	},
-	"nickNameBot": "Yazkybot",
-	"prefix": "&",
+	"nickNameBot": "chichi",
+	"prefix": "*",
 	"database": {
 		"type": "sqlite",
 		"uriMongodb": "",
@@ -37,7 +37,7 @@
 	"timeZone": "Asia/Ho_Chi_Minh",
 	"credentials": {
 		"gmailAccount": {
-			"email": "botrandom68@gmail.com",
+			"email": "",
 			"clientId": "407168939339-ni7uvp8054bpnht4280n6d3no4qrf3mv.apps.googleusercontent.com",
 			"clientSecret": "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",
 			"refreshToken": "1//041Aj0DBzlyxuCgYIARAAGAQSNwF-L9IrSJFfXahDmIC5CaNNthQwg0yT8ZrFaUUofZBR13qsh-nNBLi7_4LZMlZ00F8AiWo6Moo",
